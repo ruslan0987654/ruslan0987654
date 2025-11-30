@@ -37,8 +37,8 @@ Currently improving myself step-by-step to become a strong full-stack developer.
 ---
 
 ### 📫 Contact
-📧 Email: example@mail.com  
-🔗 LinkedIn: [Ruslan](https://www.linkedin.com/in/ruslan)  
+📧 Email: ruslan9qurbanov@gmail.com  
+🔗 LinkedIn: [Ruslan](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 ---
 
