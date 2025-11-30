@@ -24,8 +24,9 @@ Currently improving myself step-by-step to become a strong full-stack developer.
 
 ### 📌 Featured Projects
 - [Github-api](https://github.com/ruslan0987654/github-api.git) -A web application that allows users to search for GitHub profiles, view user details and repositories, and keep track of recent searches using local storage.  
-- [Project 2](#) - Short description of Project 2  
-- [Project 3](#) - Short description of Project 3  
+- [Currency](https://github.com/ruslan0987654/currency-converter-app.git) - About
+A modern currency converter that fetches live exchange rates from an external API and updates the UI based on user input. It features a clean interface, auto-recalculation when currencies change, and API error handling. 
+- [ExpenseTracker](https://github.com/ruslan0987654/ExpenseTracker.git) - A responsive expense tracking web application that allows users to add, view, and delete expenses.The data is stored locally in the browser using localStorage.  
 
 *(Sən layihə adlarını və linkləri əlavə edəcəksən.)*
 
