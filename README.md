@@ -23,7 +23,7 @@ Currently improving myself step-by-step to become a strong full-stack developer.
 ---
 
 ### 📌 Featured Projects
-- [Project 1](#) - Short description of Project 1  
+- [Github-api](https://github.com/ruslan0987654/github-api.git) -A web application that allows users to search for GitHub profiles, view user details and repositories, and keep track of recent searches using local storage.  
 - [Project 2](#) - Short description of Project 2  
 - [Project 3](#) - Short description of Project 3  
 
