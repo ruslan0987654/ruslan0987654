@@ -34,11 +34,7 @@ A modern currency converter that fetches live exchange rates from an external AP
 
 ---
 
-## 📈 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslan0987654&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslan0987654&layout=compact&theme=radical)
 
 ---
 
