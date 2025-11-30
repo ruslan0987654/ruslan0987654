@@ -31,8 +31,14 @@ Currently improving myself step-by-step to become a strong full-stack developer.
 
 ---
 
+---
+
 ### 📈 GitHub Stats
-![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslan0987654&show_icons=true&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruslan0987654&show_icons=true&theme=radical&hide_border=false" alt="Ruslan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslan0987654&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</div>
 
 ---
 
